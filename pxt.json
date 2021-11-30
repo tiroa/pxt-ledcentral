@@ -1,0 +1,11 @@
+{
+    "name": "pxt-ledcentral",
+    "description": "Encender LED central",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "public": true
+}
